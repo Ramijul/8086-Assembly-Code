@@ -1,2 +1,2 @@
-# 8086-right-triangle-detector
-Detect if the three user provided lengths make a right angled triangle, using 8086 assembly language.
+# 8086-Assembly-Code
+Examples of 8086 Assembly Language
